@@ -2,12 +2,17 @@
 
 Assorted tooling and articles related to techniques of establishing communication contracts between services.
 
+## Services
+
+- [Postman](https://www.getpostman.com/)
+
 ## Tools
 
 - [Swagger](https://swagger.io/)  
 - [Pact](https://docs.pact.io/) - Contract Testing
 - [Dredd](https://github.com/apiaryio/dredd)
 - [gRPC](https://grpc.io/) - Protocol Buffers
+- [newman](https://www.npmjs.com/package/newman) runs Postman tests in your Terminal.
 
 ## Articles
 
