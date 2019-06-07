@@ -2,10 +2,6 @@
 
 Assorted tooling and articles related to techniques of establishing communication contracts between services.
 
-## Services
-
-- [Postman](https://www.getpostman.com/)
-
 ## Tools
 
 - [Paw](https://paw.cloud/)
@@ -13,6 +9,7 @@ Assorted tooling and articles related to techniques of establishing communicatio
 - [Pact](https://docs.pact.io/) - Contract Testing
 - [Dredd](https://github.com/apiaryio/dredd)
 - [gRPC](https://grpc.io/) - Protocol Buffers
+- [Postman](https://www.getpostman.com/)
 - [newman](https://www.npmjs.com/package/newman) runs Postman tests in your Terminal.
 
 ## Articles
