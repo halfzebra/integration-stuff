@@ -4,6 +4,7 @@ Assorted tooling for integrating services together.
 
 ## Tools
 
+- [Consul](https://www.consul.io/) - Service Mesh
 - [Paw](https://paw.cloud/)
 - [Swagger](https://swagger.io/)  
 - [Pact](https://docs.pact.io/) - Contract Testing
