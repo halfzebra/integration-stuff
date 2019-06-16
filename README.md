@@ -1,6 +1,6 @@
 # integration-stuff
 
-Assorted tooling and articles related to techniques of establishing communication contracts between services.
+Assorted tooling for integrating services together.
 
 ## Tools
 
